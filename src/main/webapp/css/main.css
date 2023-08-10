@@ -1,0 +1,16 @@
+tbody img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
